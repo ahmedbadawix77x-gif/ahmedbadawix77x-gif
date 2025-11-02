@@ -1,7 +1,8 @@
-<table width="100%" border="0" style="border: none;">
+<table width="100%" style="border: none;">
 <tr valign="top">
 
-<td width="65%">
+<!-- LEFT SIDE -->
+<td width="65%" style="padding-right: 20px;">
 
 <h1 align="left">👋 Hi, I'm <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b" target="_blank">Ahmed Badawy</a></h1>
 
@@ -19,73 +20,54 @@
 
 ## 👨‍💻 About Me
 
-[cite_start]Computer Science student at **Banha University**[cite: 20], focused on practical and efficient web development.
-[cite_start]Shifted from customer-facing work [cite: 13, 15] to **full-stack engineering**, combining communication skills with technical problem-solving.
+Computer Science student at **Banha University**, passionate about building efficient, user-focused web solutions.  
+Transitioned from customer-facing roles to **Full-Stack Web Development**, combining communication skills with problem-solving.  
 
-- [cite_start]🧠 Expanding expertise in **React** and **Node.js** [cite: 22, 23, 40, 41]
-- [cite_start]🚀 Built & deployed **10+ real-world web apps** [cite: 7][cite_start], including digital menus for cafés [cite: 25, 37]
-- [cite_start]⚙️ Automating workflows using **Google Apps Script** [cite: 27, 36, 44]
-- 💬 Helping small businesses optimize operations through simple web tools
-- [cite_start]🌱 Learning **Docker**, **GCP**, and clean architecture principles [cite: 22]
-
----
-
-## 🎯 Career Objective
-
-Seeking a **Junior Web Developer** or **Internship** position where I can:
-
-- [cite_start]Contribute to real-world React or Node.js projects [cite: 9]
-- Collaborate with senior developers to refine my coding style
-- Learn modern deployment & CI/CD techniques
-- [cite_start]Grow steadily toward becoming a **Full-Stack Engineer** [cite: 11, 51]
+- 🧠 Expanding knowledge in **React** and **Node.js**  
+- 🚀 Built and deployed **10+ real-world web apps**, including café digital menus  
+- ⚙️ Automating workflows using **Google Apps Script**  
+- 💬 Helping small businesses improve operations using web tools  
+- 🌱 Learning **Docker**, **GCP**, and scalable architecture  
 
 ---
 
-## ⚙️ Tech Stack
+## 🎯 Career Objective  
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,tailwind,git,figma,docker,vscode,photoshop,gcp,postman" />
-</p>
+Looking for a **Junior Web Developer** or **Internship** position where I can:
+
+- Contribute to React or Node.js projects  
+- Collaborate with experienced developers to improve code quality  
+- Learn modern CI/CD and deployment workflows  
+- Grow into a **Full-Stack Engineer**  
 
 ---
 
-## 🏆 Featured Projects
-> Selected highlights — dynamically pinned from my repos.
+## 🏆 Featured Projects  
+
+> Selected highlights — more available on my GitHub.
 
 <table width="100%" border="0">
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <a href="https://github.com/ahmedbadawy77/Cafe-Menu-PWA">
-        <img 
-          src="#"
-          alt="Café-Menu PWA" 
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawy77&repo=Cafe-Menu-PWA&theme=transparent&hide_border=true" width="95%">
       </a>
     </td>
-    <td width="50%" align="center">
-      <a href="#">
-        <img 
-          src="#"
-          alt="Orange-Ticket Tagger" 
-        />
+    <td align="center">
+      <a href="https://github.com/ahmedbadawy77/Orange-Ticket-Tagger">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawy77&repo=Orange-Ticket-Tagger&theme=transparent&hide_border=true" width="95%">
       </a>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center">
+    <td align="center">
       <a href="https://github.com/ahmedbadawy77/University-Club-Portal">
-        <img 
-          src="#"
-          alt="University Club Portal" 
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawy77&repo=University-Club-Portal&theme=transparent&hide_border=true" width="95%">
       </a>
     </td>
-    <td width="50%" align="center">
+    <td align="center">
       <a href="https://github.com/ahmedbadawy77/MedEyes-App">
-        <img 
-          src="#"
-          alt="MedEyes" 
-        />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawy77&repo=MedEyes-App&theme=transparent&hide_border=true" width="95%">
       </a>
     </td>
   </tr>
@@ -95,53 +77,59 @@ Seeking a **Junior Web Developer** or **Internship** position where I can:
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-  </details>
+## ⚙️ Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,tailwind,git,figma,docker,vscode,photoshop,gcp,postman" />
+</p>
 
 </td>
 
-<td width="35%" align="center">
+<!-- RIGHT SIDE -->
+<td width="35%" align="center" style="padding-left: 20px;">
 
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/b2/fd/5d/b2fd5dbae3701c2884c46d407ffa66f8.jpg" width="230" alt="Ahmed Badawy" style="border-radius:16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+  <img src="https://i.pinimg.com/1200x/b2/fd/5d/b2fd5dbae3701c2884c46d407ffa66f8.jpg" width="230" alt="Ahmed Badawy" style="border-radius:16px; box-shadow:0 4px 12px rgba(0,0,0,0.15); margin-bottom:10px;">
 </p>
 
 ---
 
-## 📈 GitHub Insights
+## 📈 GitHub Insights  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedbadawy77&show_icons=true&theme=transparent&count_private=true&hide_border=true" width="100%">
+  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawy77&theme=transparent&hide_border=true" width="100%">
 </p>
 
 ---
 
-## 🧩 Technical Skills
+## 🧩 Technical Skills  
+
 | Category | Skills |
 |-----------|--------|
-| **Frontend** | [cite_start]React, HTML5, CSS3, Tailwind, JavaScript (ES6+) [cite: 40] |
-| **Backend** | [cite_start]Node.js, Express, REST APIs [cite: 41] |
-| **Database** | [cite_start]MongoDB, Mongoose [cite: 42] |
-| **Tools** | [cite_start]Git, GitHub, Postman, VS Code [cite: 43] |
-| **Design/UI** | [cite_start]Figma, Photoshop [cite: 43] |
-| **Automation** | [cite_start]Google Apps Script, Zapier [cite: 44] |
-| **Workflow** | [cite_start]Agile, Trello, English B2 [cite: 45, 47] |
+| **Frontend** | React, HTML5, CSS3, Tailwind, JavaScript (ES6+) |
+| **Backend** | Node.js, Express, REST APIs |
+| **Database** | MongoDB, Mongoose |
+| **Tools** | Git, GitHub, Postman, VS Code |
+| **Design/UI** | Figma, Photoshop |
+| **Automation** | Google Apps Script, Zapier |
+| **Workflow** | Agile, Trello, English B2 |
 
 ---
 
-## 📬 Contact
-📧 **ahmedbadawix77x@gmail.com**
-<br/>
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-badawy-45060431b)
-<br/>
-👨‍💻 [GitHub](https://github.com/ahmedbadawy77)
+## 📬 Contact  
+
+📧 **ahmedbadawix77x@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-badawy-45060431b)  
+👨‍💻 [GitHub](https://github.com/ahmedbadawy77)  
 
 ---
 
-<p align="center">
+<p align="center" style="margin-top: 10px;">
   <strong>“Turning ideas into functional, efficient web solutions.”</strong>
+  <br>
+  <sub>🐾 Team Lead Cat — Always watching the commits</sub>
 </p>
 
 </td>
