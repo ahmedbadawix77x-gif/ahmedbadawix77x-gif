@@ -42,38 +42,7 @@ Looking for a **Junior Web Developer** or **Internship** position where I can:
 
 ---
 
-## 🏆 Featured Projects  
 
-> Selected highlights — more available on my GitHub.
-
-<table width="100%" border="0">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ahmedbadawy77/Cafe-Menu-PWA">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawy77&repo=Cafe-Menu-PWA&theme=transparent&hide_border=true" width="95%">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ahmedbadawy77/Orange-Ticket-Tagger">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawy77&repo=Orange-Ticket-Tagger&theme=transparent&hide_border=true" width="95%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ahmedbadawy77/University-Club-Portal">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawy77&repo=University-Club-Portal&theme=transparent&hide_border=true" width="95%">
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/ahmedbadawy77/MedEyes-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ahmedbadawy77&repo=MedEyes-App&theme=transparent&hide_border=true" width="95%">
-      </a>
-    </td>
-  </tr>
-</table>
-
-➡️ [View all my repositories](https://github.com/ahmedbadawy77?tab=repositories)
 
 ---
 
