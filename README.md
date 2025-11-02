@@ -1,172 +1,149 @@
-<table width="100%">
+<table width="100%" border="0" style="border: none;">
+<tr valign="top">
+
+<td width="65%">
+
+<h1 align="left">👋 Hi, I'm <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b" target="_blank">Ahmed Badawy</a></h1>
+
+<p align="left">
+  Junior Web Developer • Front-End & Back-End Enthusiast • Egypt
+</p>
+
+<p align="left">
+  <a href="mailto:ahmedbadawix77x@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ahmedbadawy77"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+[cite_start]Computer Science student at **Banha University**[cite: 20], focused on practical and efficient web development.
+[cite_start]Shifted from customer-facing work [cite: 13, 15] to **full-stack engineering**, combining communication skills with technical problem-solving.
+
+- [cite_start]🧠 Expanding expertise in **React** and **Node.js** [cite: 22, 23, 40, 41]
+- [cite_start]🚀 Built & deployed **10+ real-world web apps** [cite: 7][cite_start], including digital menus for cafés [cite: 25, 37]
+- [cite_start]⚙️ Automating workflows using **Google Apps Script** [cite: 27, 36, 44]
+- 💬 Helping small businesses optimize operations through simple web tools
+- [cite_start]🌱 Learning **Docker**, **GCP**, and clean architecture principles [cite: 22]
+
+---
+
+## 🎯 Career Objective
+
+Seeking a **Junior Web Developer** or **Internship** position where I can:
+
+- [cite_start]Contribute to real-world React or Node.js projects [cite: 9]
+- Collaborate with senior developers to refine my coding style
+- Learn modern deployment & CI/CD techniques
+- [cite_start]Grow steadily toward becoming a **Full-Stack Engineer** [cite: 11, 51]
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,js,nodejs,express,mongodb,html,css,tailwind,git,figma,docker,vscode,photoshop,gcp,postman" />
+</p>
+
+---
+
+## 🏆 Featured Projects
+> Selected highlights — dynamically pinned from my repos.
+
+<table width="100%" border="0">
   <tr>
-    <td width="70%">
-      <a href="https://github.com/YOUR_USERNAME">
+    <td width="50%" align="center">
+      <a href="https://github.com/ahmedbadawy77/Cafe-Menu-PWA">
         <img 
-          src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hey+👋,+I'm+Ahmed+Badawy;Junior+Web+Developer;MERN+Stack+Enthusiast;Computer+Science+Student" 
-          alt="Typing Animation" 
+          src="#"
+          alt="Café-Menu PWA" 
         />
       </a>
-      
-      <p align="left" style="padding-left: 20px;">
-        • <b>Dynamic 20-year-old second-year Computer Science student</b> at Banha University.
-        <br/>
-        • Aspiring <b>Full-Stack Engineer</b> with a passion for turning real-world problems 
-        <br/>
-        &nbsp;&nbsp;into clean React front-ends and scalable Node.js back-ends.
-        <br/>
-        • Currently learning <b>Docker & GCP</b> in the GDG Back-End track.
-      </p>
     </td>
-    <td width="30%" align="center" valign="top">
-      <img 
-        src="https://github.com/YOUR_USERNAME.png" 
-        width="150" 
-        height="150" 
-        alt="Ahmed Badawy" 
-        style="border-radius: 50%; border: 4px solid #00BFFF;" 
-      />
-    </td>
-  </tr>
-</table>
-
-<table width="100%">
-  <tr>
-    <td width="40%" valign="top" align="center">
-      
-      ### 🤝 Connect With Me
-      
-      <p align="center">
-        <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-        </a>
-        <br/>
-        <a href="mailto:ahmedbadawix77x@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-        </a>
-        <br/>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Portfolio-4E69C8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-        </a>
-      </p>
-      
-      <p align="center"> 
+    <td width="50%" align="center">
+      <a href="#">
         <img 
-          src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge" 
-          alt="Profile Views" 
-        /> 
-      </p>
-      
+          src="#"
+          alt="Orange-Ticket Tagger" 
+        />
+      </a>
     </td>
-    
-    <td width="60%" valign="top">
-      
-      ### 🚀 My Tech Stack
-      
-      <p align="center">
-        <b>Front-End:</b><br/>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-        
-        <br/><b>Back-End:</b><br/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-        
-        <br/><b>Tools & Automation:</b><br/>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-        <img src="https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Apps Script">
-        <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white" alt="Photoshop">
-      </p>
-      
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/ahmedbadawy77/University-Club-Portal">
+        <img 
+          src="#"
+          alt="University Club Portal" 
+        />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/ahmedbadawy77/MedEyes-App">
+        <img 
+          src="#"
+          alt="MedEyes" 
+        />
+      </a>
     </td>
   </tr>
 </table>
 
----
-
-<div align="center">
-  
-  ## 📊 My GitHub Stats & Activity
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark&rank_icon=github" 
-    alt="Ahmed's GitHub Stats" 
-    width="48%"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark" 
-    alt="Ahmed's Top Languages" 
-    width="48%"
-  />
-  
-  <br/>
-  
-  <h3>🐍 My Contribution Snake (Auto-Generated)</h3>
-  <img 
-    src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" 
-    alt="Snake animation" 
-  />
-  
-</div>
+➡️ [View all my repositories](https://github.com/ahmedbadawy77?tab=repositories)
 
 ---
 
-<div align="center">
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
   
-  ## 🏆 My Featured Projects
-  
-  <details>
-    <summary>
-      <h3>Click to Expand My Project Portfolio</h3>
-    </summary>
-    
-    <table width="100%">
-      
-      <tr>
-        <td width="50%" align="center">
-          <a href="https://github.com/YOUR_USERNAME/Cafe-Menu-PWA-Repo">
-            <img 
-              src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Cafe-Menu-PWA-Repo&theme=dark&title_color=00BFFF&text_color=FFF"
-              alt="Café-Menu PWA" 
-            />
-          </a>
-        </td>
-        <td width="50%" align="center">
-          <a href="https://github.com/YOUR_USERNAME/Orange-Ticket-Tagger-Repo">
-            <img 
-              src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=Orange-Ticket-Tagger-Repo&theme=dark&title_color=00BFFF&text_color=FFF"
-              alt="Orange-Ticket Tagger" 
-            />
-          </a>
-        </td>
-      </tr>
-      
-      <tr>
-        <td width="50%" align="center">
-          <a href="https://github.com/YOUR_USERNAME/University-Club-Portal-Repo">
-            <img 
-              src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=University-Club-Portal-Repo&theme=dark&title_color=00BFFF&text_color=FFF"
-              alt="University Club Portal" 
-            />
-          </a>
-        </td>
-        <td width="50%" align="center">
-          <a href="https://github.com/YOUR_USERNAME/MedEyes-Repo">
-            <img 
-              src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=MedEyes-Repo&theme=dark&title_color=00BFFF&text_color=FFF"
-              alt="MedEyes" 
-            />
-          </a>
-        </td>
-      </tr>
-      
-    </table>
-    
   </details>
-  
-</div>
+
+</td>
+
+<td width="35%" align="center">
+
+<p align="center">
+  <img src="https://i.pinimg.com/1200x/b2/fd/5d/b2fd5dbae3701c2884c46d407ffa66f8.jpg" width="230" alt="Ahmed Badawy" style="border-radius:16px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+</p>
+
+---
+
+## 📈 GitHub Insights
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbadawy77&show_icons=true&theme=transparent&count_private=true&hide_border=true" width="100%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawy77&theme=transparent&hide_border=true" width="100%">
+</p>
+
+---
+
+## 🧩 Technical Skills
+| Category | Skills |
+|-----------|--------|
+| **Frontend** | [cite_start]React, HTML5, CSS3, Tailwind, JavaScript (ES6+) [cite: 40] |
+| **Backend** | [cite_start]Node.js, Express, REST APIs [cite: 41] |
+| **Database** | [cite_start]MongoDB, Mongoose [cite: 42] |
+| **Tools** | [cite_start]Git, GitHub, Postman, VS Code [cite: 43] |
+| **Design/UI** | [cite_start]Figma, Photoshop [cite: 43] |
+| **Automation** | [cite_start]Google Apps Script, Zapier [cite: 44] |
+| **Workflow** | [cite_start]Agile, Trello, English B2 [cite: 45, 47] |
+
+---
+
+## 📬 Contact
+📧 **ahmedbadawix77x@gmail.com**
+<br/>
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-badawy-45060431b)
+<br/>
+👨‍💻 [GitHub](https://github.com/ahmedbadawy77)
+
+---
+
+<p align="center">
+  <strong>“Turning ideas into functional, efficient web solutions.”</strong>
+</p>
+
+</td>
+</tr>
+</table>
