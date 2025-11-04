@@ -88,14 +88,50 @@ Looking for a **Junior Web Developer** or **Internship** position where I can:
 
 ---
 
-## 📬 Contact  
+## 📬 Contact
 
-📞 **+201011349165**  
-📧 **ahmedbadawix77x@gmail.com**  
-🌐 [Portfolio](https://ahmedbadawix77x-gif.github.io/Portfolio-Websit/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-badawy-45060431b)  
-👨‍💻 [GitHub](https://github.com/ahmedbadawy77)
-
+<table width="100%" style="border-collapse: collapse; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #e0e0e0; background: #121212; border-radius: 12px; padding: 15px; box-shadow: 0 4px 12px rgba(0,0,0,0.3);">
+  <tr>
+    <td width="20%" align="center" style="padding: 8px;">
+      <img src="https://img.icons8.com/color/48/000000/phone.png" width="24" alt="Phone">
+    </td>
+    <td width="80%" style="padding: 8px; font-size: 16px; line-height: 1.4;">
+      <a href="tel:+201011349165" style="color: #ffffff; text-decoration: none; font-weight: 500;">+20 101 134 9165</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 8px;">
+      <img src="https://img.icons8.com/color/48/000000/gmail.png" width="24" alt="Email">
+    </td>
+    <td style="padding: 8px; font-size: 16px; line-height: 1.4;">
+      <a href="mailto:ahmedbadawix77x@gmail.com" style="color: #ffffff; text-decoration: none; font-weight: 500;">ahmedbadawix77x@gmail.com</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 8px;">
+      <img src="https://img.icons8.com/color/48/000000/internet.png" width="24" alt="Portfolio">
+    </td>
+    <td style="padding: 8px; font-size: 16px; line-height: 1.4;">
+      <a href="https://ahmedbadawix77x-gif.github.io/Portfolio-Websit/" target="_blank" style="color: #ffffff; text-decoration: none; font-weight: 500;">Portfolio Website</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 8px;">
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="24" alt="LinkedIn">
+    </td>
+    <td style="padding: 8px; font-size: 16px; line-height: 1.4;">
+      <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b" target="_blank" style="color: #ffffff; text-decoration: none; font-weight: 500;">LinkedIn Profile</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 8px;">
+      <img src="https://img.icons8.com/color/48/000000/github.png" width="24" alt="GitHub">
+    </td>
+    <td style="padding: 8px; font-size: 16px; line-height: 1.4;">
+      <a href="https://github.com/ahmedbadawy77" target="_blank" style="color: #ffffff; text-decoration: none; font-weight: 500;">GitHub Profile</a>
+    </td>
+  </tr>
+</table>
 ---
 
 <p align="center" style="margin-top: 10px;">
