@@ -90,9 +90,11 @@ Looking for a **Junior Web Developer** or **Internship** position where I can:
 
 ## 📬 Contact  
 
+📞 **+201011349165**  
 📧 **ahmedbadawix77x@gmail.com**  
+🌐 [Portfolio](https://ahmedbadawix77x-gif.github.io/Portfolio-Websit/)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-badawy-45060431b)  
-👨‍💻 [GitHub](https://github.com/ahmedbadawy77)  
+👨‍💻 [GitHub](https://github.com/ahmedbadawy77)
 
 ---
 
