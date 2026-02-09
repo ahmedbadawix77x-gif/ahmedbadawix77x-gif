@@ -24,7 +24,7 @@ performance, and real-world usability.
 
 <p align="center">☕ Powered by curiosity, consistency & clean code</p>
 
-<img align="right" width="280" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="400"  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ---
 
