@@ -64,8 +64,12 @@ performance, and real-world usability.
 </ul>
 
 ---
-<h2>📊 GitHub Stats</h2>
+<h2>👨‍💻 Code • Anime • Coffee</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedbadawix77x-gif&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+</p>
+
+<p align="center">
+  <i>Building clean code one commit at a time 🚀</i>
 </p>
