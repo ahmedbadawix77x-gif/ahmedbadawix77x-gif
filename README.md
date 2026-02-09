@@ -1,39 +1,30 @@
-<table width="100%">
-  <tr>
-    <td width="65%" valign="top">
+<h1 align="center">Hi 👋, I'm Ahmed Badawy</h1>
 
-<h1>Hi 👋, I'm Ahmed Badawy</h1>
-<h3>
+<h3 align="center">
 Junior Web Developer & CS Student | React • TypeScript • UI/UX
 </h3>
 
-<p>
+<p align="center">
 📍 Giza, Egypt 🇪🇬 <br/>
 I build modern, responsive web applications with a strong focus on clean UI,
 performance, and real-world usability.
 </p>
 
-<p>
-<a href="https://ahmedbadawix77x-gif.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-4E69C8?style=for-the-badge&logo=Firefox&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/ahmed-badawy-45060431b">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-</a>
-<a href="mailto:ahmedbadawix77x@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://ahmedbadawix77x-gif.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4E69C8?style=for-the-badge&logo=Firefox&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:ahmedbadawix77x@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </p>
 
-<p>☕ Powered by curiosity, consistency & clean code</p>
+<p align="center">☕ Powered by curiosity, consistency & clean code</p>
 
-    </td>
-
-    <td width="35%" align="center">
-      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="280" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 ---
 
@@ -54,7 +45,7 @@ performance, and real-world usability.
 <h2>🚀 Tech Stack</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,wordpress,mysql,postgres,git,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,wordpress,mysql,postgres,git,figma" />
 </p>
 
 ---
@@ -69,15 +60,10 @@ performance, and real-world usability.
 
 ---
 
-<p align="center">
-<i>Learning. Building. Improving.</i>
-</p>
-
----
 <h2>🧠 Focus Mode</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="380" />
 </p>
 
 <p align="center">
