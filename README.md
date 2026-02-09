@@ -1,57 +1,72 @@
-<h2>Hey 👋, I'm Ahmed Badawy</h2>
+<h1 align="center">Hi 👋, I'm Ahmed Badawy</h1>
+<h3 align="center">
+Junior Web Developer & CS Student | React • TypeScript • UI/UX
+</h3>
 
-<p>
-I'm a <strong>Junior Web Developer & Computer Science Student</strong> based in 📍 Giza, Egypt.
-I enjoy building modern, responsive web applications using <strong>React</strong> and <strong>TypeScript</strong>,
-and I have experience working on freelance projects and real-world applications.
+<p align="center">
+Based in 📍 Giza, Egypt 🇪🇬 <br/>
+I build modern, responsive web applications with a strong focus on clean UI,
+performance, and real-world usability.
 </p>
 
-<p>
-<a href="https://ahmedbadawix77x-gif.github.io/Portfolio-Websit/">
-  <img src="https://img.shields.io/badge/-Portfolio-4E69C8?style=flat-square&logo=Firefox&logoColor=white" />
+<p align="center">
+<a href="https://ahmedbadawix77x-gif.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-4E69C8?style=for-the-badge&logo=Firefox&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b">
-  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 <a href="mailto:ahmedbadawix77x@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 </p>
 
-<p>☕ Powered by curiosity & clean code</p>
+<p align="center">☕ Powered by curiosity, consistency & clean code</p>
 
-<img align="right" width="300" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="320" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<h2>⚡️ A Few Quick Facts</h2>
+---
+
+<h2>⚡ Quick Overview</h2>
 
 <ul>
-<li>🎓 CS Student at Banha University (Expected Graduation: 2028)</li>
-<li>💼 Junior Web Developer & Freelance UI/UX Designer</li>
-<li>🛒 Built e-commerce and business websites using React & TypeScript</li>
-<li>🤖 Interested in workflow automation using <strong>n8n</strong></li>
-<li>👨‍💻 Most of my work is available on <a href="https://github.com/ahmedbadawix77x">GitHub</a></li>
-<li>💬 Ask me about <strong>React, TypeScript, UI/UX, PHP, and WordPress</strong></li>
-<li>📄 View my <a href="#">CV</a></li>
-<li>🎯 Fun Fact: I love turning designs into clean, working code</li>
+  <li>🎓 Computer Science student at <strong>Banha University</strong> (Expected 2028)</li>
+  <li>💼 Junior Web Developer & Freelance UI/UX Designer</li>
+  <li>🛒 Built real-world projects including e-commerce & business websites</li>
+  <li>🎨 Strong interest in UI/UX and turning designs into pixel-perfect code</li>
+  <li>🤖 Exploring workflow automation using <strong>n8n</strong></li>
+  <li>👨‍💻 All projects are available on <a href="https://github.com/ahmedbadawix77x-gif">GitHub</a></li>
+  <li>💬 Ask me about <strong>React, TypeScript, UI/UX, PHP, and WordPress</strong></li>
 </ul>
+
+---
 
 <h2>🚀 Tech Stack</h2>
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="25" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,wordpress,mysql,postgres,git,figma" />
 </p>
+
+---
+
+<h2>📌 Featured Projects</h2>
+
+<ul>
+  <li>
+    <strong>🛒 Shoperly</strong> – Modern E-commerce Web App built with React & TypeScript
+  </li>
+  <li>
+    <strong>🎨 Personal Portfolio</strong> – Professional developer portfolio with clean UI & animations
+  </li>
+  <li>
+    <strong>🍽 Restaurant Website</strong> – UI-focused landing page for a real business
+  </li>
+</ul>
+
+---
 
 <h2>📊 GitHub Stats</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ahmedbadawix77x&show_icons=true&theme=radical" />
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ahmedbadawix77x-gif&show_icons=true&theme=radical" />
+</p>
