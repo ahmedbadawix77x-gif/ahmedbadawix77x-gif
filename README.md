@@ -1,15 +1,19 @@
-<h1 align="center">Hi 👋, I'm Ahmed Badawy</h1>
-<h3 align="center">
+<table width="100%">
+  <tr>
+    <td width="65%" valign="top">
+
+<h1>Hi 👋, I'm Ahmed Badawy</h1>
+<h3>
 Junior Web Developer & CS Student | React • TypeScript • UI/UX
 </h3>
 
-<p align="center">
-Based in 📍 Giza, Egypt 🇪🇬 <br/>
+<p>
+📍 Giza, Egypt 🇪🇬 <br/>
 I build modern, responsive web applications with a strong focus on clean UI,
 performance, and real-world usability.
 </p>
 
-<p align="center">
+<p>
 <a href="https://ahmedbadawix77x-gif.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit-4E69C8?style=for-the-badge&logo=Firefox&logoColor=white" />
 </a>
@@ -21,9 +25,15 @@ performance, and real-world usability.
 </a>
 </p>
 
-<p align="center">☕ Powered by curiosity, consistency & clean code</p>
+<p>☕ Powered by curiosity, consistency & clean code</p>
 
-<img align="right" width="320" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+    </td>
+
+    <td width="35%" align="center">
+      <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -43,7 +53,7 @@ performance, and real-world usability.
 
 <h2>🚀 Tech Stack</h2>
 
-<p align="left">
+<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,php,wordpress,mysql,postgres,git,figma" />
 </p>
 
@@ -52,16 +62,16 @@ performance, and real-world usability.
 <h2>📌 Featured Projects</h2>
 
 <ul>
-  <li>
-    <strong>🛒 Shoperly</strong> – Modern E-commerce Web App built with React & TypeScript
-  </li>
-  <li>
-    <strong>🎨 Personal Portfolio</strong> – Professional developer portfolio with clean UI & animations
-  </li>
-  <li>
-    <strong>🍽 Restaurant Website</strong> – UI-focused landing page for a real business
-  </li>
+  <li><strong>🛒 Shoperly</strong> – Modern E-commerce Web App built with React & TypeScript</li>
+  <li><strong>🎨 Personal Portfolio</strong> – Professional developer portfolio with clean UI & animations</li>
+  <li><strong>🍽 Restaurant Website</strong> – UI-focused landing page for a real business</li>
 </ul>
+
+---
+
+<p align="center">
+<i>Learning. Building. Improving.</i>
+</p>
 
 ---
 <h2>🧠 Focus Mode</h2>
