@@ -64,12 +64,12 @@ performance, and real-world usability.
 </ul>
 
 ---
-<h2>👨‍💻 Code • Anime • Coffee</h2>
+<h2>🧠 Focus Mode</h2>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="420" />
 </p>
 
 <p align="center">
-  <i>Building clean code one commit at a time 🚀</i>
+  <i>Learning. Building. Improving.</i>
 </p>
