@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed Badawy</h1>
 
 <h3 align="center">
-Junior Web Developer & CS Student | React • TypeScript • UI/UX
+Junior Web Developer &  | React • TypeScript • UI/UX
 </h3>
 
 <p align="center">
@@ -31,7 +31,7 @@ performance, and real-world usability.
 <h2>⚡ Quick Overview</h2>
 
 <ul>
-  <li>🎓 Computer Science student at <strong>Banha University</strong> (Expected 2028)</li>
+  <li>🎓 Computer Education student at <strong>Banha University</strong> (Expected 2028)</li>
   <li>💼 Junior Web Developer & Freelance UI/UX Designer</li>
   <li>🛒 Built real-world projects including e-commerce & business websites</li>
   <li>🎨 Strong interest in UI/UX and turning designs into pixel-perfect code</li>
