@@ -19,13 +19,14 @@ Building modern web interfaces today, and growing into Data Engineering through 
   <a href="mailto:ahmedbadawix77x@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=ahmedbadawix77x-gif&style=for-the-badge&color=4E69C8" />
 </p>
 
 <p align="center">
 ☕ Passionate about clean code, modern UI, and continuous learning.
 </p>
 
-<img align="right" width="380" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" width="340" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <br/>
 
@@ -41,6 +42,8 @@ Building modern web interfaces today, and growing into Data Engineering through 
 - 👨‍💻 All of my projects are available right here on GitHub
 
 <br/>
+<br/>
+<br/>
 
 ## 🚀 Tech Stack
 
@@ -52,12 +55,14 @@ Building modern web interfaces today, and growing into Data Engineering through 
 
 ## 📌 Featured Projects
 
-- 🛒 **Shoperly** — Modern e-commerce web application
-- 💼 **Personal Portfolio** — Responsive developer portfolio
-- 🍽 **Restaurant Website** — Business landing page for a local café
-- 🌐 **Business Websites** — Multiple client/volunteer projects
-- ⚙️ **Automation Workflows** — n8n integrations and PowerShell-driven automation
-- 🎓 **Graduation Project** — Faculty capstone system, rated "Excellent" by 15+ department heads and the President of Benha University
+| Project | Description |
+|---|---|
+| 🛒 **Shoperly** | Modern e-commerce web application |
+| 💼 **Personal Portfolio** | Responsive developer portfolio |
+| 🍽 **Restaurant Website** | Business landing page for a local café |
+| 🌐 **Business Websites** | Multiple client/volunteer projects |
+| ⚙️ **Automation Workflows** | n8n integrations and PowerShell-driven automation |
+| 🎓 **Faculty Capstone System** | Built for the graduating class — rated "Excellent" by 15+ department heads and the President of Benha University |
 
 <br/>
 
@@ -68,6 +73,28 @@ Advanced React · Next.js · TypeScript · Node.js · REST APIs · UI/UX Best Pr
 
 **Data Engineering** *(via Microsoft Data Engineer Program — DEPI)*
 SQL · Python · PostgreSQL · Data Pipelines · Data Warehouses · Cloud Fundamentals (Azure)
+
+<br/>
+
+## 🧑‍💼 Beyond Code
+
+- 🏆 Ranked **#1 across all tracks** in the previous DEPI season
+- 🧭 **Team Leader** — AI & Data Science / DEPI Program: tracking progress, coordinating tasks, reporting to management
+- 🤝 **HR Team Member** (Non-Technical Track) — Google Developer Group (GDG) Banha, Faculty of Computers & Information
+- 🎫 Attended **Google DevFest** twice
+- 📜 Holds a **Human Resources certificate from Google**, plus **Google Back-End (Django)** and **IEEE Helwan (React)** certificates
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ahmedbadawix77x-gif&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedbadawix77x-gif&layout=compact&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedbadawix77x-gif&hide_border=true" />
+</p>
 
 <br/>
 
