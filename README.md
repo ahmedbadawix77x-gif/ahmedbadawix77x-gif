@@ -9,18 +9,9 @@ Specific Education Student — Computer Science Department, Benha University.<br
 Building modern web interfaces today, and growing into Data Engineering through hands-on learning.
 </p>
 
-<p align="center">
-  <a href="https://ahmed-badawy-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-4E69C8?style=for-the-badge&logo=Firefox&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="mailto:ahmedbadawix77x@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=ahmedbadawix77x-gif&style=for-the-badge&color=4E69C8" />
-</p>
+<p align="center"> <a href="https://ahmed-badawy-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ahmedbadawix77x@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+
+<p align="center"> <b>Fast learner • Problem solver • AI-assisted developer • Team Leader</b> </p>
 
 <p align="center">
 ☕ Passionate about clean code, modern UI, and continuous learning.
