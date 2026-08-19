@@ -5,7 +5,7 @@ Junior Front-End Developer | Aspiring Data Engineer
 
 <p align="center">
 📍 Giza, Egypt 🇪🇬 <br/>
-Computer Science Student (Special Needs Education Track), Faculty of Specific Education, Benha University.<br/>
+Specific Education Student — Computer Science Department, Benha University.<br/>
 Building modern web interfaces today, and growing into Data Engineering through hands-on learning.
 </p>
 
@@ -32,7 +32,7 @@ Building modern web interfaces today, and growing into Data Engineering through 
 
 ## ⚡ Quick Overview
 
-- 🎓 Computer Science Student, Faculty of Specific Education, Benha University (Expected 2028)
+- 🎓 Specific Education Student, Computer Science Department, Benha University (Expected 2028)
 - 💻 Junior Front-End Developer — React, TypeScript, JavaScript
 - 📊 Growing into Data Engineering through the **AI & Data Science – Microsoft Data Engineer Program** (Digital Egypt Pioneers Initiative)
 - 🧑‍💼 Selected as **Team Leader** for my DEPI program cohort based on performance
