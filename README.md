@@ -1,20 +1,30 @@
 <h1 align="center">Hi 👋, I'm Ahmed Badawy</h1>
 <h3 align="center">
-Junior Front-End Developer | Aspiring Data Engineer
+Python Backend Developer | Data Engineering
 </h3>
 
 <p align="center">
-📍 Giza, Egypt 🇪🇬 <br/>
+📍 Cairo / Giza, Egypt 🇪🇬 <br/>
 Specific Education Student — Computer Science Department, Benha University.<br/>
-Building modern web interfaces today, and growing into Data Engineering through hands-on learning.
+Building robust backend architectures, scalable APIs, and high-performance Data Engineering pipelines.
 </p>
 
-<p align="center"> <a href="https://ahmed-badawy-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" /> </a> <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:ahmedbadawix77x@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p>
+<p align="center"> 
+  <a href="https://ahmed-badawy-portfolio.vercel.app/"> 
+    <img src="https://img.shields.io/badge/Portfolio-Live_Website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" /> 
+  </a> 
+  <a href="https://www.linkedin.com/in/ahmed-badawy-45060431b"> 
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
+  </a> 
+  <a href="mailto:ahmedbadawix77x@gmail.com"> 
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> 
+  </a> 
+</p>
 
 <p align="center"> <b>Fast learner • Problem solver • AI-assisted developer • Team Leader</b> </p>
 
 <p align="center">
-☕ Passionate about clean code, modern UI, and continuous learning.
+☕ Passionate about clean backend code, database optimization, and scalable data pipelines.
 </p>
 
 <img align="right" width="340" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
@@ -23,14 +33,14 @@ Building modern web interfaces today, and growing into Data Engineering through 
 
 ## ⚡ Quick Overview
 
-- 🎓 Specific Education Student, Computer Science Department, Benha University (Expected 2028)
-- 💻 Junior Front-End Developer — React, TypeScript, JavaScript
-- 📊 Growing into Data Engineering through the **AI & Data Science – Microsoft Data Engineer Program** (Digital Egypt Pioneers Initiative)
-- 🧑‍💼 Selected as **Team Leader** for my DEPI program cohort based on performance
-- 🎨 Passionate about building modern, responsive, and user-friendly web applications
-- 🛒 Built real-world business and e-commerce websites for local clients
-- ⚙️ Exploring workflow automation using n8n and AI-assisted scripting
-- 👨‍💻 All of my projects are available right here on GitHub
+- 🎓 **Education:** Specific Education Student, Computer Science Department, Benha University (Expected 2028 - 3rd Year)
+- 🐍 **Core Focus:** Python Backend Developer & Data Engineering — Python, Django, SQL, PostgreSQL, REST APIs
+- 📊 **Specialized Track:** Advancing through the **Microsoft Data Engineer Program** (Digital Egypt Pioneers Initiative - DEPI)
+- 🧑‍💼 **Leadership:** Selected as **Team Leader** for the DEPI program cohort based on performance & technical merit
+- 🏆 **Achievement:** Ranked **#1 across all tracks** in the previous DEPI season
+- 🎓 **Recognition:** Engineered a graduation capstone system rated **"Excellent"** by the President of Benha University & 15+ Department Heads
+- ⚙️ **Automation:** Building automation workflows and system tooling using **PowerShell, Bash**, and AI-assisted scripting
+- 👨‍💻 All of my open-source projects and code repositories are available right here on GitHub
 
 <br/>
 <br/>
@@ -38,66 +48,79 @@ Building modern web interfaces today, and growing into Data Engineering through 
 
 ## 🚀 Tech Stack
 
+### 🐍 Backend & Databases
 <p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
+
+### 🗄️ Data Engineering & Analysis
+<p>
+  <img src="https://img.shields.io/badge/Data_Pipelines-ETL-008080?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Optimization-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Modeling-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+</p>
+
+### 💻 Frontend & Web Interfaces
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </p>
+
+### 🛠️ Systems, Cloud & Dev Tools
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 <br/>
 
 ## 📌 Featured Projects
 
-| Project | Description |
-|---|---|
-| 🛒 **Shoperly** | Modern e-commerce web application |
-| 💼 **Personal Portfolio** | Responsive developer portfolio |
-| 🍽 **Restaurant Website** | Business landing page for a local café |
-| 🌐 **Business Websites** | Multiple client/volunteer projects |
-| ⚙️ **Automation Workflows** | n8n integrations and PowerShell-driven automation |
-| 🎓 **Faculty Capstone System** | Built for the graduating class — rated "Excellent" by 15+ department heads and the President of Benha University |
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🎓 **Faculty Capstone System** | Enterprise management system built for faculty graduating class — rated "Excellent" by 15+ Department Heads & Benha University President | Web Portal & Database |
+| 🗄️ **Data Engineering Repository** | Practical data pipelines, ETL workflows, and advanced relational database modeling | Python, SQL, PostgreSQL |
+| 🤖 **Nway AI Assistant** | Knowledge-grounded AI assistant serving academic inquiry workflows | AI Retrieval, APIs |
+| 💼 **Personal Portfolio** | High-performance interactive developer portfolio showcasing technical milestones | React, TypeScript, Tailwind |
+| ⚙️ **PowerShell Automation Engine** | Automated task execution, system management, and environment setup scripts | PowerShell, System APIs |
+| 🍽️ **Commercial Business Websites** | Real-world business platforms delivered for local clients | Full-Stack Web |
 
 <br/>
 
-## 🌱 Currently Learning
+## 🌱 Currently Mastering
 
-**Front-End**
-Advanced React · Next.js · TypeScript · Node.js · REST APIs · UI/UX Best Practices
+**Backend Architecture & APIs**
+Python · Django · RESTful Services · Database Indexing · Caching & Query Optimization
 
-**Data Engineering** *(via Microsoft Data Engineer Program — DEPI)*
-SQL · Python · PostgreSQL · Data Pipelines · Data Warehouses · Cloud Fundamentals (Azure)
+**Data Engineering** *(via Microsoft Data Engineer Track — DEPI)*
+Advanced SQL · ETL/ELT Pipelines · PostgreSQL · Data Warehousing · Cloud Infrastructure (Azure)
 
 <br/>
 
 ## 🧑‍💼 Beyond Code
 
-- 🏆 Ranked **#1 across all tracks** in the previous DEPI season
-- 🧭 **Team Leader** — AI & Data Science / DEPI Program: tracking progress, coordinating tasks, reporting to management
-- 🤝 **HR Team Member** (Non-Technical Track) — Google Developer Group (GDG) Banha, Faculty of Computers & Information
+- 🏆 **Ranked #1 Across All Tracks** in the previous DEPI season
+- 🧭 **DEPI Team Leader** — Leading team milestones, task coordination, and performance monitoring
+- 🤝 **HR Team Member (Non-Technical Track)** — Google Developer Groups (GDG) Benha National University
 - 🎫 Attended **Google DevFest** twice
-- 📜 Holds a **Human Resources certificate from Google**, plus **Google Back-End (Django)** and **IEEE Helwan (React)** certificates
+- 📜 **Key Certifications:**
+  - Google Developer Groups (GDG): **Back-End Development (Python & Django)**
+  - Google: **Human Resources & Team Coordination**
+  - IEEE TechVerse 3.0: **Frontend & React Development**
+  - HP LIFE Foundation: **AI for Business Professionals** & **AI for Beginners**
 
 <br/>
 
@@ -115,12 +138,12 @@ SQL · Python · PostgreSQL · Data Pipelines · Data Warehouses · Cloud Fundam
 
 ## 📫 Connect With Me
 
-- 🌐 Portfolio: [ahmedbadawix77x-gif.github.io/portfolio](https://ahmedbadawix77x-gif.github.io/portfolio/)
-- 💼 LinkedIn: [linkedin.com/in/ahmed-badawy-45060431b](https://www.linkedin.com/in/ahmed-badawy-45060431b)
-- 📧 Email: [ahmedbadawix77x@gmail.com](mailto:ahmedbadawix77x@gmail.com)
+- 🌐 **Live Portfolio:** [ahmed-badawy-portfolio.vercel.app](https://ahmed-badawy-portfolio.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/ahmed-badawy-45060431b](https://www.linkedin.com/in/ahmed-badawy-45060431b)
+- 📧 **Email:** [ahmedbadawix77x@gmail.com](mailto:ahmedbadawix77x@gmail.com)
 
 <br/>
 
 <p align="center">
-<i>Building modern web experiences today — and the data systems behind them, tomorrow.</i>
+<i>Building scalable backend services and robust data engineering pipelines.</i>
 </p>
